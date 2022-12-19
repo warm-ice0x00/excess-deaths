@@ -1,0 +1,44 @@
+body {
+  background: #f8f8f8;
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+#page {
+  margin: 15px auto;
+}
+
+h1 {
+  color: #666;
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+}
+
+a {
+  border-bottom: 1px dotted #333;
+  color: #333;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.bars {
+  color: #000;
+  font-size: .875em;
+  margin: 15px auto;
+  text-align: left;
+}
+
+.categ {
+  font-weight: 400;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.bar {
+  background: orange;
+  /* Fixes Windows high contrast mode */
+  border: 1px solid #f8f8f8;
+  height: 1em;
+}
